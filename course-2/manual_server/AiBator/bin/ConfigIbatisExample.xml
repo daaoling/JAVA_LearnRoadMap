@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ibatorConfiguration
+  PUBLIC "-//Apache Software Foundation//DTD Apache iBATIS Ibator Configuration 1.0//EN"
+  "http://ibatis.apache.org/dtd/ibator-config_1_0.dtd">
+
+<ibatorConfiguration>
+	<classPathEntry location="D:/manual/lib/mysql-connector-java.jar" />
+	<ibatorContext id="FlatJava5" targetRuntime="Ibatis2Java5"
+		defaultModelType="flat">
+		<property name="suppressTypeWarnings" value="true" />
+		<!-- Serializable化 -->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.SerializablePlugin" />
+		<!-- 分页 -->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.PaginationPlugin">
+			<property name="enablePagination" value="true" />
+			<!-- mysql or oracle -->
+			<property name="databaseType" value="mysql" />
+		</ibatorPlugin>
+
+		<!-- driverClass="com.mysql.jdbc.Driver" -->
+		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+			connectionURL="jdbc:mysql://192.168.1.170/MANUAL" userId="Ace"
+			password="123456">
+			<property name="remarksReporting" value="true" />
+		</jdbcConnection>
+		<javaModelGenerator targetPackage="org.ace.dao.model"
+			targetProject="src">
+			<property name="enableSubPackages" value="true" />
+		</javaModelGenerator>
+
+		<sqlMapGenerator targetPackage="org.ace.dao.sqlmap"
+			targetProject="src">
+			<property name="enableSubPackages" value="true" />
+		</sqlMapGenerator>
+
+		<daoGenerator type="SPRING" targetPackage="org.ace.dao"
+			implementationPackage="org.ace.dao.impl" targetProject="src">
+			<property name="enableSubPackages" value="true" />
+		</daoGenerator>
+
+	<table tableName="PLAYER" enableCountByExample="false"
+		enableUpdateByExample="false" enableSelectByExample="false"
+		enableDeleteByExample="false">
+		<property name="ignoreQualifiersAtRuntime" value="true" />
+		<property name="jdbcType" value="true" />
+	</table>
+	</ibatorContext>
+</ibatorConfiguration>

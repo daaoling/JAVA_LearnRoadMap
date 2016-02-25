@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <varelement var="jar://$My_Lib$/poi/poi-ooxml-schemas.jar!/" value="My_Lib/poi/poi-ooxml-schemas.jar" />
+    <varelement var="jar://$My_Lib$/poi/poi.jar!/" value="My_Lib/poi/poi.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.aop-sources.jar!/" value="My_Lib/spring/org.springframework.aop-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.aop.jar!/" value="My_Lib/spring/org.springframework.aop.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.asm-sources.jar!/" value="My_Lib/spring/org.springframework.asm-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.asm.jar!/" value="My_Lib/spring/org.springframework.asm.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.aspects-sources.jar!/" value="My_Lib/spring/org.springframework.aspects-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.aspects.jar!/" value="My_Lib/spring/org.springframework.aspects.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.beans-sources.jar!/" value="My_Lib/spring/org.springframework.beans-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.beans.jar!/" value="My_Lib/spring/org.springframework.beans.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.context-sources.jar!/" value="src:/My_Lib/spring/org.springframework.context-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.context.jar!/" value="My_Lib/spring/org.springframework.context.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.context.support-sources.jar!/" value="My_Lib/spring/org.springframework.context.support-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.context.support.jar!/" value="My_Lib/spring/org.springframework.context.support.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.core-sources.jar!/" value="My_Lib/spring/org.springframework.core-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.core.jar!/" value="My_Lib/spring/org.springframework.core.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.expression-sources.jar!/" value="My_Lib/spring/org.springframework.expression-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.expression.jar!/" value="My_Lib/spring/org.springframework.expression.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.instrument-sources.jar!/" value="My_Lib/spring/org.springframework.instrument-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.instrument.jar!/" value="My_Lib/spring/org.springframework.instrument.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.instrument.tomcat-sources.jar!/" value="My_Lib/spring/org.springframework.instrument.tomcat-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.instrument.tomcat.jar!/" value="My_Lib/spring/org.springframework.instrument.tomcat.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.jdbc-sources.jar!/" value="My_Lib/spring/org.springframework.jdbc-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.jdbc.jar!/" value="My_Lib/spring/org.springframework.jdbc.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.jms-sources.jar!/" value="My_Lib/spring/org.springframework.jms-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.jms.jar!/" value="My_Lib/spring/org.springframework.jms.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.orm-sources.jar!/" value="src:/My_Lib/spring/org.springframework.orm-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.orm.jar!/" value="My_Lib/spring/org.springframework.orm.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.oxm-sources.jar!/" value="My_Lib/spring/org.springframework.oxm-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.oxm.jar!/" value="My_Lib/spring/org.springframework.oxm.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.test-sources.jar!/" value="My_Lib/spring/org.springframework.test-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.test.jar!/" value="My_Lib/spring/org.springframework.test.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.transaction-sources.jar!/" value="My_Lib/spring/org.springframework.transaction-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.transaction.jar!/" value="My_Lib/spring/org.springframework.transaction.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web-sources.jar!/" value="My_Lib/spring/org.springframework.web-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.jar!/" value="My_Lib/spring/org.springframework.web.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.portlet-sources.jar!/" value="My_Lib/spring/org.springframework.web.portlet-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.portlet.jar!/" value="My_Lib/spring/org.springframework.web.portlet.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.servlet-sources.jar!/" value="My_Lib/spring/org.springframework.web.servlet-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.servlet.jar!/" value="My_Lib/spring/org.springframework.web.servlet.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.struts-sources.jar!/" value="My_Lib/spring/org.springframework.web.struts-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/org.springframework.web.struts.jar!/" value="My_Lib/spring/org.springframework.web.struts.jar" />
+    <varelement var="jar://$My_Lib$/spring/spring-data-redis-sources.jar!/" value="My_Lib/spring/spring-data-redis-sources.jar" />
+    <varelement var="jar://$My_Lib$/spring/spring-data-redis.jar!/" value="My_Lib/spring/spring-data-redis.jar" />
+    <varelement var="jar://$My_Lib$/activation.jar!/" value="My_Lib/activation.jar" />
+    <varelement var="jar://$My_Lib$/ant-antlr.jar!/" value="My_Lib/ant-antlr.jar" />
+    <varelement var="jar://$My_Lib$/ant-contrib.jar!/" value="My_Lib/ant-contrib.jar" />
+    <varelement var="jar://$My_Lib$/antlr.jar!/" value="My_Lib/antlr.jar" />
+    <varelement var="jar://$My_Lib$/aopalliance.jar!/" value="My_Lib/aopalliance.jar" />
+    <varelement var="jar://$My_Lib$/asm-commons.jar!/" value="My_Lib/asm-commons.jar" />
+    <varelement var="jar://$My_Lib$/asm-util.jar!/" value="My_Lib/asm-util.jar" />
+    <varelement var="jar://$My_Lib$/asm.jar!/" value="My_Lib/asm.jar" />
+    <varelement var="jar://$My_Lib$/aspectjrt.jar!/" value="My_Lib/aspectjrt.jar" />
+    <varelement var="jar://$My_Lib$/aspectjweaver.jar!/" value="My_Lib/aspectjweaver.jar" />
+    <varelement var="jar://$My_Lib$/axis.jar!/" value="My_Lib/axis.jar" />
+    <varelement var="jar://$My_Lib$/bcprov-jdk15.jar!/" value="My_Lib/bcprov-jdk15.jar" />
+    <varelement var="jar://$My_Lib$/c3p0.jar!/" value="My_Lib/c3p0.jar" />
+    <varelement var="jar://$My_Lib$/cfgatewayadapter.jar!/" value="My_Lib/cfgatewayadapter.jar" />
+    <varelement var="jar://$My_Lib$/cglib-nodep.jar!/" value="My_Lib/cglib-nodep.jar" />
+    <varelement var="jar://$My_Lib$/classes12.jar!/" value="My_Lib/classes12.jar" />
+    <varelement var="jar://$My_Lib$/commonj-twm.jar!/" value="My_Lib/commonj-twm.jar" />
+    <varelement var="jar://$My_Lib$/commons-attributes-api.jar!/" value="My_Lib/commons-attributes-api.jar" />
+    <varelement var="jar://$My_Lib$/commons-beanutils-sources.jar!/" value="My_Lib/commons-beanutils-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-beanutils.jar!/" value="My_Lib/commons-beanutils.jar" />
+    <varelement var="jar://$My_Lib$/commons-chain.jar!/" value="My_Lib/commons-chain.jar" />
+    <varelement var="jar://$My_Lib$/commons-cli-sources.jar!/" value="My_Lib/commons-cli-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-cli.jar!/" value="My_Lib/commons-cli.jar" />
+    <varelement var="jar://$My_Lib$/commons-codec-sources.jar!/" value="My_Lib/commons-codec-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-codec.jar!/" value="My_Lib/commons-codec.jar" />
+    <varelement var="jar://$My_Lib$/commons-collections-sources.jar!/" value="My_Lib/commons-collections-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-collections.jar!/" value="My_Lib/commons-collections.jar" />
+    <varelement var="jar://$My_Lib$/commons-compress-sources.jar!/" value="My_Lib/commons-compress-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-compress.jar!/" value="My_Lib/commons-compress.jar" />
+    <varelement var="jar://$My_Lib$/commons-configuration-sources.jar!/" value="My_Lib/commons-configuration-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-configuration.jar!/" value="My_Lib/commons-configuration.jar" />
+    <varelement var="jar://$My_Lib$/commons-dbcp-sources.jar!/" value="My_Lib/commons-dbcp-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-dbcp.jar!/" value="My_Lib/commons-dbcp.jar" />
+    <varelement var="jar://$My_Lib$/commons-digester-sources.jar!/" value="My_Lib/commons-digester-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-digester.jar!/" value="My_Lib/commons-digester.jar" />
+    <varelement var="jar://$My_Lib$/commons-discovery.jar!/" value="My_Lib/commons-discovery.jar" />
+    <varelement var="jar://$My_Lib$/commons-el.jar!/" value="My_Lib/commons-el.jar" />
+    <varelement var="jar://$My_Lib$/commons-fileupload.jar!/" value="My_Lib/commons-fileupload.jar" />
+    <varelement var="jar://$My_Lib$/commons-httpclient.jar!/" value="My_Lib/commons-httpclient.jar" />
+    <varelement var="jar://$My_Lib$/commons-io-sources.jar!/" value="My_Lib/commons-io-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-io.jar!/" value="My_Lib/commons-io.jar" />
+    <varelement var="jar://$My_Lib$/commons-lang-sources.jar!/" value="My_Lib/commons-lang-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-lang.jar!/" value="My_Lib/commons-lang.jar" />
+    <varelement var="jar://$My_Lib$/commons-logging.jar!/" value="My_Lib/commons-logging.jar" />
+    <varelement var="jar://$My_Lib$/commons-math-sources.jar!/" value="My_Lib/commons-math-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-math.jar!/" value="My_Lib/commons-math.jar" />
+    <varelement var="jar://$My_Lib$/commons-pool-sources.jar!/" value="My_Lib/commons-pool-sources.jar" />
+    <varelement var="jar://$My_Lib$/commons-pool.jar!/" value="My_Lib/commons-pool.jar" />
+    <varelement var="jar://$My_Lib$/db2java.jar!/" value="My_Lib/db2java.jar" />
+    <varelement var="jar://$My_Lib$/db2jcc_license_cu.jar!/" value="My_Lib/db2jcc_license_cu.jar" />
+    <varelement var="jar://$My_Lib$/db2jcc.jar!/" value="My_Lib/db2jcc.jar" />
+    <varelement var="jar://$My_Lib$/dom4j.jar!/" value="My_Lib/dom4j.jar" />
+    <varelement var="jar://$My_Lib$/dsn.jar!/" value="My_Lib/dsn.jar" />
+    <varelement var="jar://$My_Lib$/easymock-sources.jar!/" value="My_Lib/easymock-sources.jar" />
+    <varelement var="jar://$My_Lib$/easymock.jar!/" value="My_Lib/easymock.jar" />
+    <varelement var="jar://$My_Lib$/easymockclassextension-sources.jar!/" value="My_Lib/easymockclassextension-sources.jar" />
+    <varelement var="jar://$My_Lib$/easymockclassextension.jar!/" value="My_Lib/easymockclassextension.jar" />
+    <varelement var="jar://$My_Lib$/ehcache.jar!/" value="My_Lib/ehcache.jar" />
+    <varelement var="jar://$My_Lib$/ejb3-persistence.jar!/" value="My_Lib/ejb3-persistence.jar" />
+    <varelement var="jar://$My_Lib$/ezmorph.jar!/" value="My_Lib/ezmorph.jar" />
+    <varelement var="jar://$My_Lib$/flex-messaging-common.jar!/" value="My_Lib/flex-messaging-common.jar" />
+    <varelement var="jar://$My_Lib$/flex-messaging-core.jar!/" value="My_Lib/flex-messaging-core.jar" />
+    <varelement var="jar://$My_Lib$/flex-messaging-opt.jar!/" value="My_Lib/flex-messaging-opt.jar" />
+    <varelement var="jar://$My_Lib$/flex-messaging-proxy.jar!/" value="My_Lib/flex-messaging-proxy.jar" />
+    <varelement var="jar://$My_Lib$/flex-messaging-remoting.jar!/" value="My_Lib/flex-messaging-remoting.jar" />
+    <varelement var="jar://$My_Lib$/flex-rds-server.jar!/" value="My_Lib/flex-rds-server.jar" />
+    <varelement var="jar://$My_Lib$/freemarker.jar!/" value="My_Lib/freemarker.jar" />
+    <varelement var="jar://$My_Lib$/gienah-testing.jar!/" value="My_Lib/gienah-testing.jar" />
+    <varelement var="jar://$My_Lib$/groovy.jar!/" value="My_Lib/groovy.jar" />
+    <varelement var="jar://$My_Lib$/hessian.jar!/" value="My_Lib/hessian.jar" />
+    <varelement var="jar://$My_Lib$/hibernate-annotations.jar!/" value="My_Lib/hibernate-annotations.jar" />
+    <varelement var="jar://$My_Lib$/hibernate-commons-annotations.jar!/" value="My_Lib/hibernate-commons-annotations.jar" />
+    <varelement var="jar://$My_Lib$/hibernate-entitymanager.jar!/" value="My_Lib/hibernate-entitymanager.jar" />
+    <varelement var="jar://$My_Lib$/hibernate3.jar!/" value="My_Lib/hibernate3.jar" />
+    <varelement var="jar://$My_Lib$/hsqldb.jar!/" value="My_Lib/hsqldb.jar" />
+    <varelement var="jar://$My_Lib$/ibatis-src.zip!/" value="My_Lib/ibatis-src.zip" />
+    <varelement var="jar://$My_Lib$/ibatis.jar!/" value="My_Lib/ibatis.jar" />
+    <varelement var="jar://$My_Lib$/imap.jar!/" value="My_Lib/imap.jar" />
+    <varelement var="jar://$My_Lib$/javassist.jar!/" value="My_Lib/javassist.jar" />
+    <varelement var="jar://$My_Lib$/jaxb-api.jar!/" value="My_Lib/jaxb-api.jar" />
+    <varelement var="jar://$My_Lib$/jaxb-impl.jar!/" value="My_Lib/jaxb-impl.jar" />
+    <varelement var="jar://$My_Lib$/jaxb-xjc.jar!/" value="My_Lib/jaxb-xjc.jar" />
+    <varelement var="jar://$My_Lib$/jaxen.jar!/" value="My_Lib/jaxen.jar" />
+    <varelement var="jar://$My_Lib$/jaxws-api.jar!/" value="My_Lib/jaxws-api.jar" />
+    <varelement var="jar://$My_Lib$/jboss-archive-browsing.jar!/" value="My_Lib/jboss-archive-browsing.jar" />
+    <varelement var="jar://$My_Lib$/jboss-common-jdbc-wrapper.jar!/" value="My_Lib/jboss-common-jdbc-wrapper.jar" />
+    <varelement var="jar://$My_Lib$/jcl-over-slf4j.jar!/" value="My_Lib/jcl-over-slf4j.jar" />
+    <varelement var="jar://$My_Lib$/jdbc2_0-stdext.jar!/" value="My_Lib/jdbc2_0-stdext.jar" />
+    <varelement var="jar://$My_Lib$/jdom.jar!/" value="My_Lib/jdom.jar" />
+    <varelement var="jar://$My_Lib$/jedis.jar!/" value="My_Lib/jedis.jar" />
+    <varelement var="jar://$My_Lib$/jetty-util.jar!/" value="My_Lib/jetty-util.jar" />
+    <varelement var="jar://$My_Lib$/jetty.jar!/" value="My_Lib/jetty.jar" />
+    <varelement var="jar://$My_Lib$/jmock.jar!/" value="My_Lib/jmock.jar" />
+    <varelement var="jar://$My_Lib$/json-lib.jar!/" value="My_Lib/json-lib.jar" />
+    <varelement var="jar://$My_Lib$/jsr173_api.jar!/" value="My_Lib/jsr173_api.jar" />
+    <varelement var="jar://$My_Lib$/jta.jar!/" value="My_Lib/jta.jar" />
+    <varelement var="jar://$My_Lib$/junit3.jar!/" value="My_Lib/junit3.jar" />
+    <varelement var="jar://$My_Lib$/junit4.jar!/" value="My_Lib/junit4.jar" />
+    <varelement var="jar://$My_Lib$/jxl.jar!/" value="My_Lib/jxl.jar" />
+    <varelement var="jar://$My_Lib$/jzlib.jar!/" value="My_Lib/jzlib.jar" />
+    <varelement var="jar://$My_Lib$/log4j-source.zip!/" value="My_Lib/log4j-source.zip" />
+    <varelement var="jar://$My_Lib$/log4j.jar!/" value="My_Lib/log4j.jar" />
+    <varelement var="jar://$My_Lib$/mailapi.jar!/" value="My_Lib/mailapi.jar" />
+    <varelement var="jar://$My_Lib$/mysql-connector-java.jar!/" value="My_Lib/mysql-connector-java.jar" />
+    <varelement var="jar://$My_Lib$/netty-sources.jar!/" value="My_Lib/netty-sources.jar" />
+    <varelement var="jar://$My_Lib$/netty.jar!/" value="My_Lib/netty.jar" />
+    <varelement var="jar://$My_Lib$/ognl.jar!/" value="My_Lib/ognl.jar" />
+    <varelement var="jar://$My_Lib$/opensaml.jar!/" value="My_Lib/opensaml.jar" />
+    <varelement var="jar://$My_Lib$/oscache-src.jar!/" value="My_Lib/oscache-src.jar" />
+    <varelement var="jar://$My_Lib$/oscache.jar!/" value="My_Lib/oscache.jar" />
+    <varelement var="jar://$My_Lib$/p6spy-src.jar!/" value="My_Lib/p6spy-src.jar" />
+    <varelement var="jar://$My_Lib$/p6spy.jar!/" value="My_Lib/p6spy.jar" />
+    <varelement var="jar://$My_Lib$/pop3.jar!/" value="My_Lib/pop3.jar" />
+    <varelement var="jar://$My_Lib$/proxool-cglib.jar!/" value="My_Lib/proxool-cglib.jar" />
+    <varelement var="jar://$My_Lib$/proxool.jar!/" value="My_Lib/proxool.jar" />
+    <varelement var="jar://$My_Lib$/quartz-all-sources.jar!/" value="My_Lib/quartz-all-sources.jar" />
+    <varelement var="jar://$My_Lib$/quartz-all.jar!/" value="My_Lib/quartz-all.jar" />
+    <varelement var="jar://$My_Lib$/saaj-api.jar!/" value="My_Lib/saaj-api.jar" />
+    <varelement var="jar://$My_Lib$/saaj-impl.jar!/" value="My_Lib/saaj-impl.jar" />
+    <varelement var="jar://$My_Lib$/servlet-api.jar!/" value="My_Lib/servlet-api.jar" />
+    <varelement var="jar://$My_Lib$/slf4j-api.jar!/" value="My_Lib/slf4j-api.jar" />
+    <varelement var="jar://$My_Lib$/slf4j-jdk14.jar!/" value="My_Lib/slf4j-jdk14.jar" />
+    <varelement var="jar://$My_Lib$/slf4j-log4j12.jar!/" value="My_Lib/slf4j-log4j12.jar" />
+    <varelement var="jar://$My_Lib$/smtp.jar!/" value="My_Lib/smtp.jar" />
+    <varelement var="jar://$My_Lib$/stax-api.jar!/" value="My_Lib/stax-api.jar" />
+    <varelement var="jar://$My_Lib$/stax-utils.jar!/" value="My_Lib/stax-utils.jar" />
+    <varelement var="jar://$My_Lib$/struts2-core.jar!/" value="My_Lib/struts2-core.jar" />
+    <varelement var="jar://$My_Lib$/struts2-spring-plugin.jar!/" value="My_Lib/struts2-spring-plugin.jar" />
+    <varelement var="jar://$My_Lib$/testng-5.5-jdk15.jar!/" value="My_Lib/testng-5.5-jdk15.jar" />
+    <varelement var="jar://$My_Lib$/tomcat-apr.jar!/" value="My_Lib/tomcat-apr.jar" />
+    <varelement var="jar://$My_Lib$/websphere_uow_api.jar!/" value="My_Lib/websphere_uow_api.jar" />
+    <varelement var="jar://$My_Lib$/wsdl4j.jar!/" value="My_Lib/wsdl4j.jar" />
+    <varelement var="jar://$My_Lib$/wss4j.jar!/" value="My_Lib/wss4j.jar" />
+    <varelement var="jar://$My_Lib$/wstx-asl.jar!/" value="My_Lib/wstx-asl.jar" />
+    <varelement var="jar://$My_Lib$/xalan.jar!/" value="My_Lib/xalan.jar" />
+    <varelement var="jar://$My_Lib$/xbean.jar!/" value="My_Lib/xbean.jar" />
+    <varelement var="jar://$My_Lib$/xercesImpl.jar!/" value="My_Lib/xercesImpl.jar" />
+    <varelement var="jar://$My_Lib$/xfire-jsr181-api.jar!/" value="My_Lib/xfire-jsr181-api.jar" />
+    <varelement var="jar://$My_Lib$/xfire.jar!/" value="My_Lib/xfire.jar" />
+    <varelement var="jar://$My_Lib$/xml-apis.jar!/" value="My_Lib/xml-apis.jar" />
+    <varelement var="jar://$My_Lib$/xmlbeans.jar!/" value="My_Lib/xmlbeans.jar" />
+    <varelement var="jar://$My_Lib$/XmlSchema.jar!/" value="My_Lib/XmlSchema.jar" />
+    <varelement var="jar://$My_Lib$/xmlsec.jar!/" value="My_Lib/xmlsec.jar" />
+    <varelement var="jar://$My_Lib$/xwork.jar!/" value="My_Lib/xwork.jar" />
+    <varelement var="file://$My_Lib$" value="My_Lib" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src-source" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src-dao" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/src-cache" expected_position="3" />
+      <src_folder value="file://$MODULE_DIR$/src-biz" expected_position="4" />
+      <src_folder value="file://$MODULE_DIR$/src-account" expected_position="5" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src-source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src-dao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src-cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src-biz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src-account" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.6" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/poi/poi-ooxml-schemas.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/poi/poi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.aop-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.aop-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.aop.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.aop.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.asm-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.asm-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.asm.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.asm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.aspects-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.aspects-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.aspects.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.aspects.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.beans-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.beans-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.beans.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.beans.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.context-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.context-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.context.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.context.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$My_Lib$/spring/org.springframework.context-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.context.support-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.context.support-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.context.support.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.context.support.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.core-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.core-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.core.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.expression-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.expression-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.expression.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.expression.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.instrument-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.instrument-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.instrument.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.instrument.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.instrument.tomcat-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.instrument.tomcat-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.instrument.tomcat.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.instrument.tomcat.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.jdbc-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.jdbc-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.jdbc.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.jdbc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.jms-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.jms-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.jms.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.jms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.orm-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.orm-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.orm.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.orm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$My_Lib$/spring/org.springframework.orm-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.oxm-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.oxm-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.oxm.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.oxm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.test-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.test-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.test.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.test.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.transaction-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.transaction-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.transaction.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.transaction.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.portlet-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.portlet-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.portlet.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.portlet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.servlet-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.servlet-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.servlet.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.servlet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.struts-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.struts-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.springframework.web.struts.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/org.springframework.web.struts.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-data-redis-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/spring-data-redis-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-data-redis.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/spring/spring-data-redis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-antlr.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ant-antlr.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-contrib.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ant-contrib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/antlr.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/aopalliance.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-commons.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/asm-commons.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-util.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/asm-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/asm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjrt.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/aspectjrt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjweaver.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/aspectjweaver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/axis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/bcprov-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="c3p0.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/c3p0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cfgatewayadapter.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/cfgatewayadapter.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-nodep.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/cglib-nodep.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="classes12.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/classes12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commonj-twm.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commonj-twm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-attributes-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-attributes-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-beanutils-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-beanutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-chain.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-chain.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-cli-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-cli-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-cli.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-cli.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-codec-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-collections-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-collections.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-compress-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-compress.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-configuration-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-configuration-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-configuration.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-configuration.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-dbcp-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-dbcp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-digester-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-digester.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-discovery.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-discovery.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-el.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-el.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-fileupload.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-httpclient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-io-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-lang-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-lang.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-math-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-math.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-pool-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/commons-pool.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="db2java.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/db2java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="db2jcc_license_cu.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/db2jcc_license_cu.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="db2jcc.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/db2jcc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/dom4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsn.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/dsn.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="easymock-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/easymock-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="easymock.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/easymock.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="easymockclassextension-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/easymockclassextension-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="easymockclassextension.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/easymockclassextension.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ehcache.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ehcache.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ejb3-persistence.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ejb3-persistence.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ezmorph.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ezmorph.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flex-messaging-common.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/flex-messaging-common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flex-messaging-core.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/flex-messaging-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flex-messaging-opt.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/flex-messaging-opt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flex-messaging-proxy.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/flex-messaging-proxy.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flex-messaging-remoting.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/flex-messaging-remoting.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flex-rds-server.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/flex-rds-server.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="freemarker.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/freemarker.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gienah-testing.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/gienah-testing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="groovy.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/groovy.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hessian.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/hessian.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-annotations.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/hibernate-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-commons-annotations.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/hibernate-commons-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-entitymanager.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/hibernate-entitymanager.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate3.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/hibernate3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hsqldb.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/hsqldb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ibatis-src.zip">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ibatis-src.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ibatis.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ibatis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="imap.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/imap.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/javassist.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jaxb-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-impl.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jaxb-impl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-xjc.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jaxb-xjc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxen.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jaxen.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxws-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jaxws-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jboss-archive-browsing.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jboss-archive-browsing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jboss-common-jdbc-wrapper.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jboss-common-jdbc-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcl-over-slf4j.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jcl-over-slf4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdbc2_0-stdext.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jdbc2_0-stdext.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jdom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jedis.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jedis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jetty-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jetty.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmock.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jmock.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-lib.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/json-lib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsr173_api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jsr173_api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jta.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit3.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/junit3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit4.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/junit4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxl.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jxl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jzlib.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/jzlib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-source.zip">
+        <CLASSES>
+          <root url="jar://$My_Lib$/log4j-source.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/log4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mailapi.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/mailapi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/mysql-connector-java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/netty-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/netty.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ognl.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/ognl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opensaml.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/opensaml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oscache-src.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/oscache-src.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oscache.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/oscache.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="p6spy-src.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/p6spy-src.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="p6spy.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/p6spy.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pop3.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/pop3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="proxool-cglib.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/proxool-cglib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="proxool.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/proxool.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="quartz-all-sources.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/quartz-all-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="quartz-all.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/quartz-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="saaj-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/saaj-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="saaj-impl.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/saaj-impl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/slf4j-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-jdk14.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/slf4j-jdk14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/slf4j-log4j12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="smtp.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/smtp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/stax-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-utils.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/stax-utils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-core.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/struts2-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-spring-plugin.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/struts2-spring-plugin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng-5.5-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/testng-5.5-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-apr.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/tomcat-apr.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websphere_uow_api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/websphere_uow_api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wsdl4j.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/wsdl4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wss4j.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/wss4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wstx-asl.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/wstx-asl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xalan.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xalan.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xbean.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xbean.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xercesImpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xfire-jsr181-api.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xfire-jsr181-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xfire.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xfire.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xml-apis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xmlbeans.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="XmlSchema.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/XmlSchema.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlsec.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xmlsec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xwork.jar">
+        <CLASSES>
+          <root url="jar://$My_Lib$/xwork.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="My_Lib">
+        <CLASSES>
+          <root url="file://$My_Lib$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

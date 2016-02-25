@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ibatorConfiguration
+  PUBLIC "-//Apache Software Foundation//DTD Apache iBATIS Ibator Configuration 1.0//EN"
+  "http://ibatis.apache.org/dtd/ibator-config_1_0.dtd">
+
+<ibatorConfiguration>
+	<classPathEntry location="E:/jars/ojdbc/ojdbc14_10.2.0.4.jar" />
+	<ibatorContext id="FlatJava5" targetRuntime="Ibatis2Java5">
+		<property name="suppressTypeWarnings" value="true" />
+		<!-- 修改dao里面返回值，把增删改的返回值由整型改为布尔型
+		 <ibatorPlugin type="org.apache.ibatis.ibator.plugins.ChangeReturnPlugin" >
+		 	<property name="enableResult" value="true"/>
+		 </ibatorPlugin>
+		-->
+		 <!-- 为dao增加spring注解 -->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.AnnotationPlugin" />
+		<!-- Serializable化 -->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.SerializablePlugin" />
+		<!-- 这个插件添加方法为例(实际上的内部类)来支持不区分大小写像查询 -->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.CaseInsensitiveLikePlugin" />
+		<!-- 分页 ，自动根据下面的配置jdbcConnection的 driverClass自动判断是oracle还是mysql-->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.PaginationPlugin" />
+		<!-- 重命名example类 -->
+		<ibatorPlugin
+			type="org.apache.ibatis.ibator.plugins.RenameExampleClassPlugin">
+			<property name="searchString" value="Example$" />
+			<property name="replaceString" value="Criteria" />
+		</ibatorPlugin>
+		<!-- 产生sqlmap.xml
+		-->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.SqlMapConfigPlugin">
+			<property name="targetPackage" value="ibator.sqlmap" />
+			<property name="targetProject" value="../useIbator/src/main/java" />
+		</ibatorPlugin>
+		<!-- 产生service
+		-->
+		<ibatorPlugin type="org.apache.ibatis.ibator.plugins.ServiceImplPlugin">
+			<property name="targetPackage" value="ibator.service" />
+			<property name="implementationPackage" value="ibator.service.impl" />
+			<property name="targetProject" value="../useIbator/src/main/java" />
+			<!-- 是否要设置自定义的返回值，默认为true -->
+			<property name="addResult" value="true" />
+			<!-- 是否要设置注解方式，默认为true -->
+			<property name="enableAnnotation" value="true" />
+			<!-- 是否要添加insert方法,以下相同，默认为true -->
+			<!--
+			<property name="enableInsert" value="false" />
+			<property name="enableupdateByExampleSelective" value="false" />
+			<property name="enableinsertSelective" value="false" />
+			<property name="enableUpdateByPrimaryKey" value="false" />
+			<property name="enableDeleteByPrimaryKey" value="false" />
+			<property name="enableDeleteByExample" value="false" />
+			<property name="enableUpdateByPrimaryKeySelective" value="false" />
+			<property name="enableUpdateByExample" value="false" />
+			-->
+		</ibatorPlugin>
+
+		<jdbcConnection driverClass="oracle.jdbc.driver.OracleDriver"
+			connectionURL="jdbc:oracle:thin:@10.249:1521:BCAS" userId="cujaa"
+			password="1234" >
+			<property name="remarksReporting" value="true"/>
+			</jdbcConnection>
+		<javaModelGenerator targetPackage="ibator.pojo"
+			targetProject="../useIbator/src/main/java">
+<!--			<property name="rootClass" value="pojo.BaseBean"/>-->
+			</javaModelGenerator>
+
+		<sqlMapGenerator targetPackage="ibator.sqlmap"
+			targetProject="../useIbator/src/main/java">
+		</sqlMapGenerator>
+
+		<daoGenerator type="SPRING" targetPackage="ibator.dao"  implementationPackage="ibator.dao.impl"
+			targetProject="../useIbator/src/main/java">
+		</daoGenerator>
+		<!-- 指定schema，预防不同schema下面有同样名称的表名 -->
+		<table tableName="BASE_USERS">
+		<!--去掉sqlmap中的schema， 在oracle中，如果配置了schema，此项一定要为true-->
+			<property name="ignoreQualifiersAtRuntime" value="true"/>
+			<!-- 是否需要增加jdbcType  如：#installSize:DECIMAL# 默认为 #installSize#-->
+			<property name="jdbcType" value="true" />
+		</table>
+		<table tableName="_APPLETE_INFO">
+			<property name="ignoreQualifiersAtRuntime" value="true" />
+		</table>
+		<table tableName="_CARD_COUNTER">
+			<property name="ignoreQualifiersAtRuntime" value="true" />
+		</table>
+	</ibatorContext>
+</ibatorConfiguration>
